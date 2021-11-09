@@ -429,7 +429,7 @@ section {
     }
 }
 
-/*MEDIA QUERY FO RMOBILE PHONES AND SMALLER */
+/*MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
     .hero-form button {
         width: 100%;
